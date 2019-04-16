@@ -1,5 +1,5 @@
 #__author__ = 'chubby_superman'
-#_*_coding=utf-8 _*
+#_*_coding=utf-8 _*_
 
 
 from locust import HttpLocust,TaskSet,task
